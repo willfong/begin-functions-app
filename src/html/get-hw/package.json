@@ -1,0 +1,7 @@
+{
+  "name": "knock-a8p-get-hw",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
